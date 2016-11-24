@@ -1,6 +1,6 @@
 # flask-microblog
 
-This is a microblog site which is based on a tutorial for begineers. It also have sqlalchemy events to send data to a target url.
+This is a microblog site which is based on a tutorial for beginners. It also have sqlalchemy events to send data to a target url.
 
 ## Installation:
 
